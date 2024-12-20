@@ -1,0 +1,42 @@
+[
+  {
+    "id": "3981225257359246",
+    "parentId": "",
+    "label": "sys.menu.services",
+    "name": "services",
+    "icon": "solar:calendar-bold-duotone",
+    "type": 1,
+    "route": "service",
+    "component": "/sys/others/service/index.tsx"
+  },
+  {
+    "id": "39534525257359246",
+    "parentId": "",
+    "label": "sys.menu.order",
+    "name": "order",
+    "icon": "solar:clapperboard-edit-broken",
+    "type": 1,
+    "route": "order",
+    "component": "/sys/others/order/index.tsx"
+  },
+  {
+    "id": "123012830123809",
+    "parentId": "",
+    "label": "sys.menu.feedback",
+    "name": "feedback",
+    "icon": "solar:chat-round-like-bold",
+    "type": 1,
+    "route": "feedback",
+    "component": "/sys/others/feedback/index.tsx"
+  },
+  {
+    "id": "123012830123456809",
+    "parentId": "",
+    "label": "sys.menu.contact",
+    "name": "contact",
+    "icon": "material-symbols:contact-phone",
+    "type": 1,
+    "route": "contact",
+    "component": "/sys/others/contact/index.tsx"
+  }
+]
